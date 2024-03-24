@@ -1,0 +1,18 @@
+#firsthead{
+    text-align: center;
+    color:brown;
+    text-decoration: underline black ;
+    font-size: 50px;
+}
+
+#main{
+    color:red;
+    
+}
+#smain{
+    color:black;
+    
+}
+.img{
+    justify-content: end;
+}
